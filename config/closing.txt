@@ -1,0 +1,1 @@
+Sesi chat berakhir (kebijakan {{settings.max_turns}} pesan). Kamu bisa mulai sesi baru kapan saja.

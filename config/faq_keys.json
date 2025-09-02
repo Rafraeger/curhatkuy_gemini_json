@@ -1,0 +1,7 @@
+{
+  "jam": ["jam","operasional","buka","tutup"],
+  "lokasi": ["alamat","lokasi","maps","kontak","telepon"],
+  "layanan": ["layanan","konseling","psikotes"],
+  "tarif": ["tarif","harga","biaya","bayar"],
+  "booking": ["booking","janji","reservasi","jadwal","daftar"]
+}

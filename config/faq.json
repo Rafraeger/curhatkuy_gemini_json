@@ -1,0 +1,7 @@
+{
+  "jam": "Jam operasional {{clinic.hours}}.",
+  "lokasi": "Lokasi: {{clinic.address}}. Kontak: {{clinic.phone}}.",
+  "layanan": "Layanan: Konseling individu, pasangan/keluarga, psikotes.",
+  "tarif": "Tarif mulai RpXXX.000/sesi (50 menit).",
+  "booking": "Booking via tombol 'Buat Janji' atau WA Admin: {{clinic.phone}}."
+}

@@ -1,0 +1,9 @@
+{
+  "greeting": "\\b(hai|halo|helo|hello|hi|pagi|siang|sore|malam|ass?alamualaikum)\\b",
+  "thanks": "\\b(terima kasih|makasih|thanks|makasi|thx)\\b",
+  "ack": "\\b(ok(e)?|sip|siap|noted|iya|ya|baik|lanjut|tes)\\b",
+
+  "who": "\\b(siapa\\s+kamu|kamu\\s+siapa|kamu\\s+itu\\s+siapa|who\\s+are\\s+you|what\\s+are\\s+you|kamu\\s+(itu\\s+)?apa|apa\\s+itu\\s+kamu|apa\\s+kamu|jelaskan\\s+(tentang\\s+)?kamu|kenalkan\\s+dirimu|perkenalkan\\s+dirimu|kenalan\\s+dulu)\\b",
+  "can": "\\b(bisa\\s+apa|bisa\\s+ngapain|ngapain\\s+aja|apa\\s+aja\\s+yang\\s+kamu\\s+bisa|apa\\s+yang\\s+kamu\\s+(bisa|lakukan)|what\\s+can\\s+you\\s+do|fitur|kemampuan|fungsi\\s+kamu)\\b",
+  "about": "\\b(tentang\\s+(kamu|dirimu|curhatkuy)|apa\\s+itu\\s+curhatkuy|kamu\\s+dari\\s+mana|dibuat\\s+oleh|buatan\\s+siapa|who\\s+made\\s+you|bot\\s+apa\\s+ini|apa\\s+itu\\s+bot)\\b"
+}
